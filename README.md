@@ -2,6 +2,17 @@
 
 Shows your TikTok LIVE chat, gifts, follows and stats inside RuneLite, so you can keep playing while you stream. No other app is needed.
 
+<table>
+  <tr>
+    <th>On-screen overlay</th>
+    <th>Side panel</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/overlay.png" width="368" alt="Chat overlay showing viewers, likes, diamonds and follows, followed by chat messages, a gift and a follow"></td>
+    <td align="center"><img src="docs/side-panel.png" width="472" alt="TikTok LIVE side panel with the same stats and chat"></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Chat overlay**: a movable, resizable on-screen chat with word wrap, configurable width, font, colors, message count and how long messages stay visible
